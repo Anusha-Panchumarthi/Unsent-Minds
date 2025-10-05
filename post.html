@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post - Unsent Minds</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <link href="./styles.css" rel="stylesheet">
+</head>
+<body>
+
+<!-- Navigation -->
+<nav>
+    <div class="logo" onclick="scrollToTop()">Unsent Minds</div>
+    <ul class="nav-links">
+        <a href="./index.html"><li>Home</li></a>
+        <a href="./explore.html"><li>Explore</li></a>
+        <a href="./post.html" class="active-link"><li>Post</li></a>
+        <a href="./shop.html"><li>Shop</li></a>
+        <a href="./connect.html"><li>Connect</li></a>
+        <a href="./talkToTherapist.html"><li>Talk to Therapist</li></a>
+        <a href="./profile.html"><li>Profile</li></a>
+    </ul>
+</nav>
+
+<!-- Post Section -->
+<div class="post-box" id="postBox">
+    <textarea id = "post-content" placeholder="Share what’s on your mind…"></textarea>
+    <p id="messageDiv">Post content cannot be empty!</p>
+    <button id="postBtn">Post</button>
+</div>
+
+
+<p><footer>&copy; <center> 2025 Unsent Minds</footer></p>
+
+<script src="./script.js" type="module"></script>
+<script src="./scripts/posts.js" type="module"></script>
+</body>
+</html>

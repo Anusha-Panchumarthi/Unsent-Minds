@@ -1,0 +1,15 @@
+document.getElementById('stress-btn').onclick = () => {
+    window.open('https://www.amazon.in/BESAFE-Forever-Physiotherapy-Strengthener-Arthritis/dp/B09VGKPVJC/ref=sr_1_7?crid=2M8Y26MLNCKNL&dib=eyJ2IjoiMSJ9.XaUGug5NzcblGkshg0FSuS9EIYAvASksvoUdgW-hepAEX89jxVpt86kegIOC1PSGnGE9wOyHTRwPKbU0c9Kclmf1SsllyOzO7G1AdBB7jXZhCpryVhT7VeTKhOwhBZzLJkLtsHzbTKC_RdXxEI7adJ7FWF0SiHiN7uNj8A8D44rm-vQZHAzPQeLb0xKiY5vuwnUSbbHH3Ip3w84GKlBesjTdfmk9YtByavtOqLdjuSnvqfpeE3RGkHNlai9PjNSsuwr2S-Z2yjKhhsAscOxcr1SHOD7UWOjXK2Zd2OUpeEk.x8gZ1HlkGSO4omgH97ZZR0dD0V05qliU330ZBSEDRwE&dib_tag=se&keywords=yellow+stress+ball&qid=1759665688&sprefix=yellow+stress+ball%2Caps%2C260&sr=8-7');
+}
+
+document.getElementById('journal-btn').onclick = () => {
+    window.open('https://www.amazon.in/hz/mobile/mission/?_encoding=UTF8&p=bUrh9eBwTqKqz5FXEdROIAO9kCeWzg%2BHoy8f2m0L9tcgHi9q7lmrBP0dmdnBLmeX2h3Bdokmt2pVEkyIsNYi1WIhWbluDTEAZOZ%2F2CzmsFgTzqliAS9IZAAJ5OC47sAdiATpoS%2ForBO3H5ME1%2B05t196%2FGTXMCLL4oPYpTV2VDuu86sEZ8lqhcQsb9fQ0K649nLnU2RRssgp7Ya8pvu6%2F%2FmkFUI3ZYCfWhMPaeUHIaui1ayIflWiIRh23QCf6cGlaCXBfKsjmX0rMAg%2F7Z6%2BchRN9I%2FZfPLIEz7CRVlEvIoR%2BxJWtpkaxp%2FRO3hGzdWA6mDGzNeXrOB1ktx9M7VCCY4GE6Pk1gJRIsZ3lbfFp2PmnguLDYi2YxeSlvzCYzr4gxwEzULQuKTcOGV7fbyNGQGF5nx%2F%2FCR2S3Ra6UWrzSc%3D&ref_=ci_mcx_mi&pd_rd_w=Vre87&content-id=amzn1.sym.0c573583-dc3a-4af0-a91f-3f46bc8832a8%3Aamzn1.symc.7bcfb32d-e0f8-4460-a397-2065a5174946&pf_rd_p=0c573583-dc3a-4af0-a91f-3f46bc8832a8&pf_rd_r=XX1APRDMHPQWFTR3BD8K&pd_rd_wg=FnN7q&pd_rd_r=ab2b636d-44e5-478c-bb75-27c5ba8b0f17');
+}
+
+document.getElementById('mist-btn').onclick = () => {
+    window.open('https://www.amazon.in/Phool-Sleep-Pillow-Mist-Relaxation/dp/B0D7WBY7JQ/ref=sr_1_1_sspa?crid=19MNM2N6Z9QH0&dib=eyJ2IjoiMSJ9.UWsOJA8ReDm9zfwuvr9QVI0gXH849UHPWb7YfnK3I0dAd-MJL2DZGat8gw885qvGyMO7ofSDRdayULzF-SCEJvGozrplsU3gjxdU7UFkEoIMVh-yisAPWP2cmEn0_2FchAhruzMLptZ6Sor16h6mlaokZajgRR10LeRLGsFekd0tCUYVjMTCYHAFoPRfitcv.kKT44Xfab5Msu39mw0ygc33jrmmAQfOxTMrkOD9Nw6c&dib_tag=se&keywords=phool+soothing+pillow+mist&qid=1759666306&sprefix=phool+soothing+pillow+mis%2Caps%2C423&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1');
+}
+
+document.getElementById('candle-btn').onclick = () => {
+    window.open('https://www.amazon.in/Aromatherapy-Scented-Candles-Set-Destress/dp/B0DRYK5WP8/ref=sr_1_1_sspa?crid=V6HN1AGN2B3Y&dib=eyJ2IjoiMSJ9.KcE7pCNzfGGiL9zeTk3jPc0huIiF9FUYEa3gwce6c2jlt-6tSqpkuAsw3YYDsDl5y4EcP6aF4OkHmlq-jV7gfuCj18rtZqTeGi31j3ELPPkiqRLcwBa-MEzx2YiM20POa9Wi7x7zONij9WayOOeifpVpVdcwHAUV7bajcCqz3AaYZcJN3nwhlpcBn6Su6g5zBM-qspVw84C4Rwj7beKhCKuWGdtCFIBKWa3LhAJcX8HOL7G1APK2zfLLe2vUaBaptwHVsg6iTEebxpNyVjhqaNtsIvLyW8HOwEahru8VqF8.aGixFF9tDLEsDwnMMFkMQ_9W4GD8ayFPyQBErhQQMlU&dib_tag=se&keywords=stress+relief+candle&qid=1759666647&sprefix=stress+relief+candle%2Caps%2C323&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1');
+}
