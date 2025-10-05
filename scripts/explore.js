@@ -15,9 +15,9 @@ else {
 
     container.appendChild(postDiv);
 
-    const trashIcon = document.createElement('img');
-    trashIcon.src = '../assets/trash-can.png';
-
+    const trashIcon = document.createElement('p');
+    trashIcon.textContent = 'X';
+    trashIcon.className = 'trash-icon';
     trashIcon.onclick = () => deletePost(post.id);
     postDiv.appendChild(trashIcon);
 
@@ -30,4 +30,5 @@ function deletePost(postId) {
   localStorage.setItem('posts', JSON.stringify(posts)); 
   console.log("Deleted post with ID:", postId);
   window.location.reload();
+
 }
