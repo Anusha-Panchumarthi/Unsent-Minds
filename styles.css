@@ -301,4 +301,13 @@ footer { text-align: center; padding: 2rem; color: #fff; font-weight: 300; margi
     font-weight: 600;
     color: #a8d5ff;
     text-decoration: underline;
+
+}
+
+.trash-icon {
+    cursor: pointer;
+    color: #ff4d4d;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-left: 15px;
 }
